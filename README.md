@@ -1,6 +1,8 @@
 # Librelingo-Course-Tools
 My sets of unofficial tools to help make [Librelingo](https://github.com/LibreLingo/LibreLingo) courses
 
+# I recommend you check out this first before using this. It might suit your needs better than these tools can [Librelingo Course-ci](https://github.com/LibreLingo/course-ci/tree/main)
+
 ## Usage
 
 ```
